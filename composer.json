@@ -1,0 +1,11 @@
+{
+  "name": "wwsh/symfony-handlebars",
+  "description": "A bundle for integrating Handlebars into Symfony projects",
+  "license": "MIT",
+  "type": "project",
+  "autoload":    {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}
